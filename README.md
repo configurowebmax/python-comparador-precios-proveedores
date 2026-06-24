@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Comparador de Precios de Proveedores 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-comparador-precios-proveedores/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-comparador-precios-proveedores/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-comparador-precios-proveedores/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Compara 3 cotizaciones y muestra la mejor opción.
 
 ## 🚀 Probar la aplicación
 
